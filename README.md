@@ -34,3 +34,6 @@ Based on the Balanced Accuracy Score the Easy Ensemble AdaBoost Classifier was t
 score of 88% went to the Balanced Random Forest Classifier. This score is not as important in credit card risk becuase 
 all the False Positives can be ruled out by calling back the credit card holders. The best Recall score went to 
 Easy Ensemble AdaBoost Classifier at 92%. This score is due to a low number of False Negatives.
+
+My recommendation is to use the Easy Ensemble AdaBoost Classifier based on the high Balanced Accuracy Score and
+Recall score. This technique had the lowest count of False Negatives. 

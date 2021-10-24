@@ -30,3 +30,7 @@ Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 
 # Summary:
+Based on the Balanced Accuracy Score the Easy Ensemble AdaBoost Classifier was the highest at 93%. The highest Precision
+score of 88% went to the Balanced Random Forest Classifier. This score is not as important in credit card risk becuase 
+all the False Positives can be ruled out by calling back the credit card holders. The best Recall score went to 
+Easy Ensemble AdaBoost Classifier at 92%. This score is due to a low number of False Negatives.
